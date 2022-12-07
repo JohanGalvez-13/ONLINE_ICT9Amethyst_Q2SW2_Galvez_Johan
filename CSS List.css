@@ -1,0 +1,35 @@
+	#ID1 {
+			text-align: center;
+			text-transform: capitalize;
+	}
+	.CLASS1 {
+			background-color: pink;
+			text-decoration: overline;
+			text-shadow: 2px 2px 4px blue;
+	}
+	.CLASS2 {
+			text-decoration: underline;
+			text-shadow: 1px 1px 2px red;
+	}
+	.CLASS3 {
+			text-decoration: underline;
+			text-shadow: 1px 1px 2px blue;
+	}
+	.CLASS4 {
+			border-style: groove;
+			border-width: 10px;
+			border-top-color: red;
+			border-left-color: blue;
+			border-bottom-color: green;
+			border-right-color: orange;
+			padding: 20px;
+	}
+	.CLASS5 {
+			border-style: groove;
+			border-width: 5px;
+			border-top-color: pink;
+			border-left-color: hotpink;
+			border-bottom-color: deeppink;
+			border-right-color: lightpink;
+			padding: 10px;
+	}
